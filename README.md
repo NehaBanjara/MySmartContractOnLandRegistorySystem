@@ -2,7 +2,7 @@
 # Land Registory System using Blockchain
 
 ## Overview
-The **Land Registry System** is a  **Blockchain- powered smart contract** that enables **secure, transparent, and tamper-proof** land ownership management. It allows users to **register land parcels, verify ownership, and transfer property rights** securely without intermediaries.
+The **Land Registory System** is a  **Blockchain- powered smart contract** that enables **secure, transparent, and tamper-proof** land ownership management. It allows users to **register land parcels, verify ownership, and transfer property rights** securely without intermediaries.
 This system utilizes blockchain's immutability to eliminate the need for intermediaries and reduce fraud in land transactions.
 Built on **Ethereum (Solidity)** 
 
